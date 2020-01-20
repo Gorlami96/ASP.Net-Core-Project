@@ -1,0 +1,11 @@
+D:\Projects\NetFramework\OdeTofood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.deps.json
+D:\Projects\NetFramework\OdeTofood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.dll
+D:\Projects\NetFramework\OdeTofood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.pdb
+D:\Projects\NetFramework\OdeTofood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Core.dll
+D:\Projects\NetFramework\OdeTofood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Core.pdb
+D:\Projects\NetFramework\OdeTofood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csprojAssemblyReference.cache
+D:\Projects\NetFramework\OdeTofood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.AssemblyInfoInputs.cache
+D:\Projects\NetFramework\OdeTofood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.AssemblyInfo.cs
+D:\Projects\NetFramework\OdeTofood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csproj.CopyComplete
+D:\Projects\NetFramework\OdeTofood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.dll
+D:\Projects\NetFramework\OdeTofood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.pdb

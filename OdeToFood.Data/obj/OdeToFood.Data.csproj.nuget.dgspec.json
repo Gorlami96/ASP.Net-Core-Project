@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\NetFramework\\OdeTofood.Data\\OdeToFood.Data.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\NetFramework\\OdeTofood.Core\\OdeToFood.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\NetFramework\\OdeTofood.Core\\OdeToFood.Core.csproj",
+        "projectName": "OdeToFood.Core",
+        "projectPath": "D:\\Projects\\NetFramework\\OdeTofood.Core\\OdeToFood.Core.csproj",
+        "packagesPath": "C:\\Users\\Shivang\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\NetFramework\\OdeTofood.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shivang\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\NetFramework\\OdeTofood.Data\\OdeToFood.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\NetFramework\\OdeTofood.Data\\OdeToFood.Data.csproj",
+        "projectName": "OdeToFood.Data",
+        "projectPath": "D:\\Projects\\NetFramework\\OdeTofood.Data\\OdeToFood.Data.csproj",
+        "packagesPath": "C:\\Users\\Shivang\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\NetFramework\\OdeTofood.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shivang\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Projects\\NetFramework\\OdeTofood.Core\\OdeToFood.Core.csproj": {
+                "projectPath": "D:\\Projects\\NetFramework\\OdeTofood.Core\\OdeToFood.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
